@@ -1,3 +1,4 @@
+```
 # 🚀 MMU Foundation: My Journey into Mechanistic Interpretability
 
 ### *From Dhaka to Malaysia, from learner to researcher, from dreamer to builder*
@@ -65,7 +66,7 @@ This repository is the raw, unfiltered log of that journey. The daily commits. T
 > Even if it's just adding a note.
 > Even if the code doesn't work.
 > 
-> Show up. Every day.
+> Show up—every day.
 
 ---
 
