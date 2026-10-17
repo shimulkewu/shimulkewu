@@ -1,13 +1,13 @@
 ```
 # 🚀 MMU Foundation: My Journey into Mechanistic Interpretability
 
-### *From Dhaka to Malaysia, from learner to researcher, from dreamer to builder*
+### *From learner to researcher, from dreamer to builder*
 
 ---
 
 ## 🌟 Who I Am
 
-I'm Sam. 44 years old. Father of three. Soon to be a PhD student in Research at MMU Malaysia.
+I'm Sam. 44 years old. Father of three. Soon-to-be PhD student in Research at MMU Malaysia.
 
 My mission: **Researcher in Mechanistic Interpretability**—the science of opening AI's black box—while building a startup that makes AI transparent and trustworthy.
 
