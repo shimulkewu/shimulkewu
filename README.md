@@ -7,7 +7,7 @@
 
 ## 🌟 Who I Am
 
-I'm Sam. 44 years old. Father of three. Soon-to-be PhD student in Research at MMU Malaysia.
+I'm Sam. 44 years old.
 
 My mission: **Researcher in Mechanistic Interpretability**—the science of opening AI's black box—while building a startup that makes AI transparent and trustworthy.
 
